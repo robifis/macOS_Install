@@ -107,6 +107,7 @@ Open your terminal and run:
 ```bash
 git clone git@github.com:yourusername/your-repo.git
 cd your-repo
+```
 
 B. Run the Environment Setup & App Installation Script
 	1.	Make the Script Executable:
